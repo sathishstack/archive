@@ -1,9 +1,3 @@
-Below is a **top-tier, senior-level `README.md`** for your repository
-**`springboot-archive`**, written to communicate **intent, structure, and depth**—not “practice dump”.
-
-You can **copy–paste this directly** into `springboot-archive/README.md`.
-
----
 
 # Spring Boot Archive
 
