@@ -1,3 +1,5 @@
 spring:
   application:
-    name: archive
+    name: oms-service
+  profiles:
+    active: dev
